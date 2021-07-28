@@ -1,0 +1,15 @@
+{
+	"name": "log4ahk.ahk",
+	"version": "0.1.0",
+	"description": "Simple logging with AutoHotkey.",
+	"main": "export.ahk",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/AutoHotkey-V2/log4ahk.ahk.git"
+	},
+	"dependencies": {
+		 "callstack": "AutoHotkey-V2/callstack.ahk",
+	},
+	"author": "Johannes Kilian",
+	"license": "MIT"
+}
